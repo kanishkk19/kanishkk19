@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanishk Bajaj</h1>
-<h3 align="center">A passionate frontend developer from Gurgaon, India</h3>
+<h3 align="center">A final-year student pursuing Computer Science w/s Gaming
+Technology @ SRM university KTR campus. Skilled in Data Structures &
+Algorithms, passionate about delivering outstanding quality and service.
+Always ready to learn new things, grow, meet new people and have
+new experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkk19&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkk19" /> </p>
 
