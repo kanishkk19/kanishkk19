@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Bajaj</h1>
-<h3 align="center">A final-year student pursuing Computer Science w/s Gaming
-Technology @ SRM university KTR campus. Skilled in Data Structures &
-Algorithms, passionate about delivering outstanding quality and service.
-Always ready to learn new things, grow, meet new people and have
-new experiences.</h3>
+<h3 align="center">A final-year student pursuing Computer Science w/s Gaming Technology @ SRM university KTR campus. Skilled in Data Structures & Algorithms, passionate about delivering outstanding quality and service. Always ready to learn new things, grow, meet new people and have new experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkk19&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkk19" /> </p>
 
@@ -11,7 +7,7 @@ new experiences.</h3>
 
 - 👨‍💻 All of my projects are available at [https://kanishk-portfolio.vercel.app/](https://kanishk-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing](https://shorturl.at/duzG2)]([https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing](https://shorturl.at/duzG2))
+- 📄 Know about my experiences [https://shorturl.at/syFO3](https://shorturl.at/syFO3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
