@@ -11,7 +11,7 @@ new experiences.</h3>
 
 - 👨‍💻 All of my projects are available at [https://kanishk-portfolio.vercel.app/](https://kanishk-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing](https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing](https://shorturl.at/duzG2)]([https://drive.google.com/file/d/1cgwPg0AuZCPsnJs4ixNDVkN0H_ubvI_9/view?usp=sharing](https://shorturl.at/duzG2))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
