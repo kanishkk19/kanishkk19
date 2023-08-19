@@ -1,5 +1,5 @@
 # 💫 About Me:
-A final-year student pursuing Computer Science w/s Gaming<br>Technology @ SRM university KTR campus. Skilled in Data Structures &<br>Algorithms, passionate about delivering outstanding quality and service.<br>Always ready to learn new things, grow, meet new people and have<br>new experiences.
+A final-year student pursuing Computer Science w/s Gaming Technology @ SRM University KTR campus. Skilled in Data Structures & Algorithms, passionate about delivering outstanding quality and service. Always ready to learn new things, grow, meet new people, and have<br>new experiences.
 
 
 ## 🌐 Socials:
